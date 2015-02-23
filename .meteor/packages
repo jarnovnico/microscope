@@ -8,5 +8,4 @@ meteor-platform
 autopublish
 insecure
 underscore
-bootstrap
-mizzao:bootstrap-3
+twbs:bootstrap
