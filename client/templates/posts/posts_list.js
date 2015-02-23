@@ -10,7 +10,12 @@ var postsData = [
 	{
 		title: 'The Meteor Book',
 		url: 'http://themeteorbook.com'
+	},
+	{
+		title: 'COME ON YOU SPURS',
+		url: 'http://reddit.com/r/coys'
 	}
+
 ];
 Template.postsList.helpers({
 	posts: postsData
